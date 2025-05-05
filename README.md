@@ -1,1 +1,1 @@
-# qr_telegram_bot
+# qr_space_bot
